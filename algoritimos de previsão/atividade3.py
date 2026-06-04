@@ -11,6 +11,7 @@
 # aporte_mensal = 1000.00
 
 # # Dicionário contendo as modalidades de investimento
+# # e suas respectivas taxas médias anuais de rentabilidade
 # investimentos = {
 #     "Poupança": 0.06,       # 6% ao ano
 #     "Tesouro Selic": 0.10,  # 10% ao ano
